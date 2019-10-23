@@ -2,10 +2,10 @@
 <html>
 <body>
 
-<h1>This is my PHP App2</h1>
+<h1>This is my PHP App3</h1>
 
 <?php
-echo "Version: 2";
+echo "Version: 3";
 ?>
 
 </body>
